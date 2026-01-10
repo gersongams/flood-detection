@@ -1,0 +1,30 @@
+[project]
+name = "flood-risk-detector"
+version = "0.1.0"
+description = "Satellite image analysis for flood risk detection using deep learning"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.30.0",
+    "celery[redis]>=5.3.0",
+    "redis>=5.0.0",
+    "sentinelhub>=3.10.0",
+    "numpy>=1.26.0",
+    "pandas>=2.1.0",
+    "matplotlib>=3.8.0",
+    "rasterio>=1.3.0",
+    "scikit-learn>=1.3.0",
+    "torch>=2.1.0",
+    "torchvision>=0.16.0",
+    "streamlit-folium>=0.15.0",
+    "folium>=0.15.0",
+    "Pillow>=10.0.0",
+    "python-dotenv>=1.0.0",
+    "python-dateutil>=2.8.0",
+    "scipy>=1.11.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "jupyter>=1.0.0",
+    "ipywidgets>=8.1.0",
+]
