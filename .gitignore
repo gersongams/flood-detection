@@ -14,3 +14,18 @@ wheels/
 
 # Data files (satellite images, models)
 data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+celery.log
+
+# OS
+.DS_Store
