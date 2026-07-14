@@ -29,3 +29,6 @@ celery.log
 
 # OS
 .DS_Store
+
+# Overleaf project (separate git repo, cloned locally)
+overleaf-thesis/

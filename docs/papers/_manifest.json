@@ -1,0 +1,163 @@
+[
+ {
+  "zotero_key": "JZWUGYF6",
+  "bibtex_key": "wu_near-real-time_2023",
+  "year": "2023",
+  "title": "A Near-Real-Time Flood Detection Method Based on Deep Learning and SAR Images",
+  "pdf": "/Users/gersongarrido/Zotero/storage/JZWUGYF6/Wu et al. - 2023 - A Near-Real-Time Flood Detection Method Based on Deep Learning and SAR Images.pdf"
+ },
+ {
+  "zotero_key": "2RSVTZQ5",
+  "bibtex_key": "riche_novel_2024",
+  "year": "2024",
+  "title": "A Novel Hybrid Deep-Learning Approach for Flood-Susceptibility Mapping",
+  "pdf": "/Users/gersongarrido/Zotero/storage/2RSVTZQ5/Riche et al. - 2024 - A Novel Hybrid Deep-Learning Approach for Flood-Susceptibility Mapping.pdf"
+ },
+ {
+  "zotero_key": "YSWCNIQI",
+  "bibtex_key": "liu_deep_2022",
+  "year": "2022",
+  "title": "Deep Learning Segmentation of Satellite Imagery Identifies Aquatic Vegetation Associated with Snail Intermediate Hosts of Schistosomiasis in Senegal, Africa",
+  "pdf": "/Users/gersongarrido/Zotero/storage/YSWCNIQI/Liu et al. - 2022 - Deep Learning Segmentation of Satellite Imagery Identifies Aquatic Vegetation Associated with Snail.pdf"
+ },
+ {
+  "zotero_key": "R7X74XGL",
+  "bibtex_key": "fawakherji_deepflood_2025",
+  "year": "2025",
+  "title": "DeepFlood for Inundated Vegetation High-Resolution Dataset for Accurate Flood Mapping and Segmentation",
+  "pdf": "/Users/gersongarrido/Zotero/storage/R7X74XGL/Fawakherji et al. - 2025 - DeepFlood for Inundated Vegetation High-Resolution Dataset for Accurate Flood Mapping and Segmentati.pdf"
+ },
+ {
+  "zotero_key": "94QF4FQQ",
+  "bibtex_key": "yin_estimating_2023",
+  "year": "2023",
+  "title": "Estimating Rainfall Intensity Using an Image-Based Deep Learning Model",
+  "pdf": "/Users/gersongarrido/Zotero/storage/94QF4FQQ/Yin et al. - 2023 - Estimating Rainfall Intensity Using an Image-Based Deep Learning Model.pdf"
+ },
+ {
+  "zotero_key": "VZIDPI7Z",
+  "bibtex_key": "konapala_exploring_2021",
+  "year": "2021",
+  "title": "Exploring Sentinel-1 and Sentinel-2 diversity for flood inundation mapping using deep learning",
+  "pdf": "/Users/gersongarrido/Zotero/storage/VZIDPI7Z/Konapala et al. - 2021 - Exploring Sentinel-1 and Sentinel-2 diversity for flood inundation mapping using deep learning.pdf"
+ },
+ {
+  "zotero_key": "9ZRAJPE2",
+  "bibtex_key": "chen_flood_2025",
+  "year": "2025",
+  "title": "Flood Index-Enhanced deep learning model for coastal inundation mapping in SAR imagery",
+  "pdf": "/Users/gersongarrido/Zotero/storage/9ZRAJPE2/Chen et al. - 2025 - Flood Index-Enhanced deep learning model for coastal inundation mapping in SAR imagery.pdf"
+ },
+ {
+  "zotero_key": "BEJIG3FM",
+  "bibtex_key": "pech-may_flood_2025",
+  "year": "2025",
+  "title": "Flood Mapping through Sentinel-1, Sentinel-2 Imagery and U-NET Deep Learning Model",
+  "pdf": "/Users/gersongarrido/Zotero/storage/BEJIG3FM/Pech-May et al. - 2025 - Flood Mapping through Sentinel-1, Sentinel-2 Imagery and U-NET Deep Learning Model.pdf"
+ },
+ {
+  "zotero_key": "MTGDAPIX",
+  "bibtex_key": "du_high-precision_2026",
+  "year": "2026",
+  "title": "High-precision flood change detection with lightweight SAR transformer network and context-aware attention for enriched-diverse and complex flooding scenarios",
+  "pdf": "/Users/gersongarrido/Zotero/storage/MTGDAPIX/Du et al. - 2026 - High-precision flood change detection with lightweight SAR transformer network and context-aware att.pdf"
+ },
+ {
+  "zotero_key": "GCP6C4H4",
+  "bibtex_key": "saleh_high-precision_2024",
+  "year": "2024",
+  "title": "High-precision flood detection and mapping via multi-temporal SAR change analysis with semantic token-based transformer",
+  "pdf": "/Users/gersongarrido/Zotero/storage/GCP6C4H4/Saleh et al. - 2024 - High-precision flood detection and mapping via multi-temporal SAR change analysis with semantic toke.pdf"
+ },
+ {
+  "zotero_key": "9UVA3U2W",
+  "bibtex_key": "zhu_improving_2025",
+  "year": "2025",
+  "title": "Improving pluvial flood simulations with a multi-source digital elevation model super-resolution method",
+  "pdf": "/Users/gersongarrido/Zotero/storage/9UVA3U2W/Zhu et al. - 2025 - Improving pluvial flood simulations with a multi-source digital elevation model super-resolution met.pdf"
+ },
+ {
+  "zotero_key": "UAQMNXZX",
+  "bibtex_key": "shastry_mapping_2023",
+  "year": "2023",
+  "title": "Mapping floods from remote sensing data and quantifying the effects of surface obstruction by clouds and vegetation",
+  "pdf": "/Users/gersongarrido/Zotero/storage/UAQMNXZX/Shastry et al. - 2023 - Mapping floods from remote sensing data and quantifying the effects of surface obstruction by clouds.pdf"
+ },
+ {
+  "zotero_key": "EFT6MMIR",
+  "bibtex_key": "saleh_pdca-former_2023",
+  "year": "2023",
+  "title": "PDCA-FORMER: PRIOR-DIAGONAL CROSS ATTENTION-GUIDED TRANSFORMER FOR FLOOD MAPPING FROM SAR IMAGERY: A CASE IN KHARTOUM",
+  "pdf": "/Users/gersongarrido/Zotero/storage/EFT6MMIR/Saleh et al. - 2023 - PDCA-FORMER PRIOR-DIAGONAL CROSS ATTENTION-GUIDED TRANSFORMER FOR FLOOD MAPPING FROM SAR IMAGERY A.pdf"
+ },
+ {
+  "zotero_key": "7RTEBXBK",
+  "bibtex_key": "kapoor_qdeepgr4j_2026",
+  "year": "2026",
+  "title": "QDeepGR4J: Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extreme flow prediction with uncertainty quantification",
+  "pdf": "/Users/gersongarrido/Zotero/storage/7RTEBXBK/Kapoor and Chandra - 2026 - QDeepGR4J Quantile-based ensemble of deep learning and GR4J hybrid rainfall-runoff models for extre.pdf"
+ },
+ {
+  "zotero_key": "Z58TV9IJ",
+  "bibtex_key": "xu_sar_2022",
+  "year": "2022",
+  "title": "SAR image water extraction using the attention U-net and multi-scale level set method: flood monitoring in South China in 2020 as a test case",
+  "pdf": "/Users/gersongarrido/Zotero/storage/Z58TV9IJ/Xu et al. - 2022 - SAR image water extraction using the attention U-net and multi-scale level set method flood monitor.pdf"
+ },
+ {
+  "zotero_key": "EF2GH8MJ",
+  "bibtex_key": "shu_satvit-seg_2026",
+  "year": "2026",
+  "title": "SatViT-Seg: A Transformer-Only Lightweight Semantic Segmentation Model for Real-Time Land Cover Mapping of High-Resolution Remote Sensing Imagery on Satellites",
+  "pdf": "/Users/gersongarrido/Zotero/storage/EF2GH8MJ/Shu et al. - 2026 - SatViT-Seg A Transformer-Only Lightweight Semantic Segmentation Model for Real-Time Land Cover Mapp.pdf"
+ },
+ {
+  "zotero_key": "S5KZMVPV",
+  "bibtex_key": "ulloa_sentinel-1_2022",
+  "year": "2022",
+  "title": "Sentinel-1 Spatiotemporal Simulation Using Convolutional LSTM for Flood Mapping",
+  "pdf": "/Users/gersongarrido/Zotero/storage/S5KZMVPV/Ulloa et al. - 2022 - Sentinel-1 Spatiotemporal Simulation Using Convolutional LSTM for Flood Mapping.pdf"
+ },
+ {
+  "zotero_key": "8HKBE8NE",
+  "bibtex_key": "herath_subgrid_2025",
+  "year": "2025",
+  "title": "Subgrid informed neural networks for high-resolution flood mapping",
+  "pdf": "/Users/gersongarrido/Zotero/storage/8HKBE8NE/Herath et al. - 2025 - Subgrid informed neural networks for high-resolution flood mapping.pdf"
+ },
+ {
+  "zotero_key": "NQ72ZIE5",
+  "bibtex_key": "tran_surface_2022",
+  "year": "2022",
+  "title": "Surface Water Mapping and Flood Monitoring in the Mekong Delta Using Sentinel-1 SAR Time Series and Otsu Threshold",
+  "pdf": "/Users/gersongarrido/Zotero/storage/NQ72ZIE5/Tran et al. - 2022 - Surface Water Mapping and Flood Monitoring in the Mekong Delta Using Sentinel-1 SAR Time Series and.pdf"
+ },
+ {
+  "zotero_key": "3R2FEVLA",
+  "bibtex_key": "li_terrainfloodsense_2025",
+  "year": "2025",
+  "title": "TerrainFloodSense: Improving seamless flood mapping with cloudy satellite imagery via water occurrence and terrain data fusion",
+  "pdf": "/Users/gersongarrido/Zotero/storage/3R2FEVLA/Li et al. - 2025 - TerrainFloodSense Improving seamless flood mapping with cloudy satellite imagery via water occurren.pdf"
+ },
+ {
+  "zotero_key": "YEUB4CFM",
+  "bibtex_key": "garshasbi_uncertainty-aware_2025",
+  "year": "2025",
+  "title": "Uncertainty-Aware Flood Inundation Mapping With a Bayesian Deep Learning Framework Using SAR Imagery",
+  "pdf": "/Users/gersongarrido/Zotero/storage/YEUB4CFM/Garshasbi et al. - 2025 - Uncertainty-Aware Flood Inundation Mapping With a Bayesian Deep Learning Framework Using SAR Imagery.pdf"
+ },
+ {
+  "zotero_key": "GB9HH9FG",
+  "bibtex_key": "gau_using_2024",
+  "year": "2024",
+  "title": "Using Machine Learning to Determine the Efficacy of Socio-Economic Indicators as Predictors for Flood Risk in London",
+  "pdf": "/Users/gersongarrido/Zotero/storage/GB9HH9FG/Gau and Singh - 2024 - Using Machine Learning to Determine the Efficacy of Socio-Economic Indicators as Predictors for Floo.pdf"
+ },
+ {
+  "zotero_key": "VUX9HVMK",
+  "bibtex_key": "huang_waterdetectionnet_2024",
+  "year": "2024",
+  "title": "WaterDetectionNet: A New Deep Learning Method for Flood Mapping With SAR Image Convolutional Neural Network",
+  "pdf": "/Users/gersongarrido/Zotero/storage/VUX9HVMK/Huang et al. - 2024 - WaterDetectionNet A New Deep Learning Method for Flood Mapping With SAR Image Convolutional Neural.pdf"
+ }
+]
